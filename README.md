@@ -1,6 +1,6 @@
 # Trackify- Your-Personal-Music-Shelf
 
-A desktop-based **Java Swing** application that allows users to manage playlists and songs — inspired by Spotify’s sleek interface.  
+### A desktop-based **Java Swing** application that allows users to manage playlists and songs — inspired by Spotify’s sleek interface.  
 This project demonstrates strong **Object-Oriented Programming (OOP)** principles and **JDBC**-based database connectivity using **SQLite**.
 
 ---
